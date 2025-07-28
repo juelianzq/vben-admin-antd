@@ -1,0 +1,19 @@
+{
+  "dashboard": {
+    "title": "Dashboard",
+    "analytics": "Analytics",
+    "workspace": "Workspace"
+  },
+  "auth": {
+    "login": "Login",
+    "codeLogin": "Code Login",
+    "qrcodeLogin": "QR Code Login",
+    "forgetPassword": "Forget Password",
+    "register": "Register"
+  },
+  "fallback": {
+    "notFound": "Page Not Found",
+    "forbidden": "Access Denied",
+    "internalError": "Internal Error"
+  }
+}
